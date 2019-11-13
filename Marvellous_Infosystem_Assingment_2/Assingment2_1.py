@@ -16,7 +16,7 @@ while(c):
 			print("Enter 2 no.")
 			a=int(input())
 			b=int(input())
-	elif(c==0):break
+	elif(c==0): break
 	else:print("Invalid option")
 	
 	
