@@ -1,5 +1,5 @@
-INFO:root:d41d8cd98f00b204e9800998ecf8427e
-INFO:root:dc11689980aa6c5df739e23d13ac99e4
-INFO:root:dc11689980aa6c5df739e23d13ac99e4
-INFO:root:dc11689980aa6c5df739e23d13ac99e4
-INFO:root:d41d8cd98f00b204e9800998ecf8427e
+INFO:root:946ba8bbda1e685c7380bfa4b34dfd59
+INFO:root:946ba8bbda1e685c7380bfa4b34dfd59
+INFO:root:deafed87755eae9f6dd64eea273c2108
+WARNING:root:write() argument must be str, not list
+WARNING:root:write() argument must be str, not list
