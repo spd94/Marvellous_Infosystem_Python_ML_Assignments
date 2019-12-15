@@ -1,0 +1,249 @@
+Process_Name,P_id,Process_Username
+System Idle Process,0,NT AUTHORITY\SYSTEM
+System,4,NT AUTHORITY\SYSTEM
+fontdrvhost.exe,72,Access Denied
+Registry,96,Access Denied
+chrome.exe,220,DESKTOP-JV65JC9\SPD
+taskhostw.exe,356,DESKTOP-JV65JC9\SPD
+smss.exe,400,Access Denied
+Code.exe,548,DESKTOP-JV65JC9\SPD
+svchost.exe,556,Access Denied
+csrss.exe,608,Access Denied
+wininit.exe,708,Access Denied
+dwm.exe,740,Access Denied
+services.exe,780,Access Denied
+lsass.exe,796,Access Denied
+svchost.exe,884,Access Denied
+svchost.exe,940,Access Denied
+chrome.exe,964,DESKTOP-JV65JC9\SPD
+svchost.exe,996,Access Denied
+WUDFHost.exe,1004,Access Denied
+flux.exe,1036,DESKTOP-JV65JC9\SPD
+svchost.exe,1064,Access Denied
+svchost.exe,1112,Access Denied
+svchost.exe,1136,Access Denied
+svchost.exe,1192,Access Denied
+chrome.exe,1280,DESKTOP-JV65JC9\SPD
+svchost.exe,1332,Access Denied
+svchost.exe,1380,Access Denied
+dllhost.exe,1404,Access Denied
+svchost.exe,1428,Access Denied
+svchost.exe,1488,Access Denied
+svchost.exe,1492,Access Denied
+nvxdsync.exe,1548,Access Denied
+svchost.exe,1576,Access Denied
+cmd.exe,1632,DESKTOP-JV65JC9\SPD
+svchost.exe,1644,Access Denied
+Microsoft.Photos.exe,1696,DESKTOP-JV65JC9\SPD
+vmware-usbarbitrator64.exe,1700,Access Denied
+svchost.exe,1712,Access Denied
+svchost.exe,1800,Access Denied
+svchost.exe,1808,Access Denied
+QMEmulatorService.exe,1812,Access Denied
+LockApp.exe,1896,DESKTOP-JV65JC9\SPD
+svchost.exe,1932,Access Denied
+chrome.exe,2044,DESKTOP-JV65JC9\SPD
+svchost.exe,2072,Access Denied
+Memory Compression,2124,Access Denied
+svchost.exe,2168,Access Denied
+svchost.exe,2180,Access Denied
+svchost.exe,2212,Access Denied
+svchost.exe,2220,Access Denied
+svchost.exe,2244,Access Denied
+chrome.exe,2256,DESKTOP-JV65JC9\SPD
+svchost.exe,2320,Access Denied
+WmiPrvSE.exe,2336,Access Denied
+igfxCUIService.exe,2344,Access Denied
+svchost.exe,2392,Access Denied
+svchost.exe,2456,Access Denied
+chrome.exe,2476,DESKTOP-JV65JC9\SPD
+svchost.exe,2520,Access Denied
+sihost.exe,2568,DESKTOP-JV65JC9\SPD
+svchost.exe,2596,Access Denied
+svchost.exe,2672,Access Denied
+svchost.exe,2824,Access Denied
+svchost.exe,2860,Access Denied
+javaw.exe,2880,DESKTOP-JV65JC9\SPD
+MicrosoftEdgeSH.exe,2944,DESKTOP-JV65JC9\SPD
+sppsvc.exe,2992,Access Denied
+chrome.exe,3036,DESKTOP-JV65JC9\SPD
+svchost.exe,3052,Access Denied
+vmware-authd.exe,3184,Access Denied
+oracle.exe,3192,Access Denied
+svchost.exe,3252,Access Denied
+chrome.exe,3276,DESKTOP-JV65JC9\SPD
+svchost.exe,3292,Access Denied
+svchost.exe,3328,Access Denied
+AsLdrSrv.exe,3344,Access Denied
+svchost.exe,3360,Access Denied
+svchost.exe,3372,Access Denied
+spoolsv.exe,3460,Access Denied
+svchost.exe,3512,Access Denied
+svchost.exe,3536,Access Denied
+YourPhone.exe,3560,DESKTOP-JV65JC9\SPD
+svchost.exe,3572,Access Denied
+svchost.exe,3632,Access Denied
+AsusTPCenter.exe,3640,DESKTOP-JV65JC9\SPD
+winlogon.exe,3648,Access Denied
+svchost.exe,3656,Access Denied
+svchost.exe,3688,Access Denied
+dasHost.exe,3704,Access Denied
+vmnetdhcp.exe,3732,Access Denied
+AdminService.exe,3780,Access Denied
+svchost.exe,3796,Access Denied
+SearchUI.exe,3804,DESKTOP-JV65JC9\SPD
+svchost.exe,3816,Access Denied
+svchost.exe,3836,Access Denied
+esif_uf.exe,3860,Access Denied
+svchost.exe,3884,Access Denied
+FNPLicensingService64.exe,3912,Access Denied
+svchost.exe,3920,Access Denied
+svchost.exe,3944,Access Denied
+chrome.exe,3956,DESKTOP-JV65JC9\SPD
+nmesrvc.exe,4008,Access Denied
+chrome.exe,4020,DESKTOP-JV65JC9\SPD
+omtsreco.exe,4036,Access Denied
+TNSLSNR.EXE,4076,Access Denied
+svchost.exe,4084,Access Denied
+vmnat.exe,4104,Access Denied
+svchost.exe,4200,Access Denied
+conhost.exe,4260,Access Denied
+svchost.exe,4384,Access Denied
+svchost.exe,4772,Access Denied
+svchost.exe,4828,Access Denied
+svchost.exe,4996,Access Denied
+WmiPrvSE.exe,5072,Access Denied
+nvtray.exe,5168,DESKTOP-JV65JC9\SPD
+vmware-hostd.exe,5284,Access Denied
+svchost.exe,5364,Access Denied
+MicrosoftEdgeCP.exe,5388,DESKTOP-JV65JC9\SPD
+WinStore.App.exe,5436,DESKTOP-JV65JC9\SPD
+SgrmBroker.exe,5452,Access Denied
+emagent.exe,5552,Access Denied
+svchost.exe,5872,DESKTOP-JV65JC9\SPD
+notepad.exe,5964,DESKTOP-JV65JC9\SPD
+RuntimeBroker.exe,5976,DESKTOP-JV65JC9\SPD
+svchost.exe,6108,Access Denied
+RuntimeBroker.exe,6208,DESKTOP-JV65JC9\SPD
+svchost.exe,6268,Access Denied
+svchost.exe,6364,Access Denied
+Code.exe,6492,DESKTOP-JV65JC9\SPD
+svchost.exe,6504,Access Denied
+chrome.exe,6520,DESKTOP-JV65JC9\SPD
+svchost.exe,6528,Access Denied
+cmd.exe,6540,Access Denied
+RuntimeBroker.exe,6560,DESKTOP-JV65JC9\SPD
+svchost.exe,6568,Access Denied
+perl.exe,6572,Access Denied
+PresentationFontCache.exe,6604,Access Denied
+svchost.exe,6664,Access Denied
+MicrosoftEdge.exe,6780,DESKTOP-JV65JC9\SPD
+svchost.exe,6860,DESKTOP-JV65JC9\SPD
+Code.exe,6956,DESKTOP-JV65JC9\SPD
+igfxEM.exe,7068,DESKTOP-JV65JC9\SPD
+nvvsvc.exe,7088,Access Denied
+ApplicationFrameHost.exe,7296,DESKTOP-JV65JC9\SPD
+SecurityHealthService.exe,7320,Access Denied
+MySQLNotifier.exe,7528,DESKTOP-JV65JC9\SPD
+vmware-tray.exe,7536,DESKTOP-JV65JC9\SPD
+browser_broker.exe,7560,DESKTOP-JV65JC9\SPD
+NisSrv.exe,7652,Access Denied
+chrome.exe,7664,DESKTOP-JV65JC9\SPD
+dllhost.exe,7824,DESKTOP-JV65JC9\SPD
+svchost.exe,7864,Access Denied
+Code.exe,7880,DESKTOP-JV65JC9\SPD
+WmiPrvSE.exe,7924,Access Denied
+conhost.exe,8012,DESKTOP-JV65JC9\SPD
+NvBackend.exe,8052,DESKTOP-JV65JC9\SPD
+svchost.exe,8188,Access Denied
+svchost.exe,8208,Access Denied
+chrome.exe,8264,DESKTOP-JV65JC9\SPD
+OfficeClickToRun.exe,8408,Access Denied
+Code.exe,8440,DESKTOP-JV65JC9\SPD
+chrome.exe,8452,DESKTOP-JV65JC9\SPD
+chrome.exe,8468,DESKTOP-JV65JC9\SPD
+AsusTPLoader.exe,8540,DESKTOP-JV65JC9\SPD
+armsvc.exe,8568,Access Denied
+RuntimeBroker.exe,8796,DESKTOP-JV65JC9\SPD
+chrome.exe,8852,DESKTOP-JV65JC9\SPD
+cmd.exe,8872,Access Denied
+chrome.exe,8936,DESKTOP-JV65JC9\SPD
+dllhost.exe,9012,DESKTOP-JV65JC9\SPD
+chrome.exe,9044,DESKTOP-JV65JC9\SPD
+SkypeApp.exe,9088,DESKTOP-JV65JC9\SPD
+igfxHK.exe,9176,DESKTOP-JV65JC9\SPD
+AppVShNotify.exe,9668,Access Denied
+RuntimeBroker.exe,9704,DESKTOP-JV65JC9\SPD
+SearchProtocolHost.exe,9768,Access Denied
+igfxTray.exe,9864,DESKTOP-JV65JC9\SPD
+svchost.exe,9868,Access Denied
+GoogleCrashHandler64.exe,10120,Access Denied
+ShellExperienceHost.exe,10188,DESKTOP-JV65JC9\SPD
+chrome.exe,10276,DESKTOP-JV65JC9\SPD
+RuntimeBroker.exe,10324,DESKTOP-JV65JC9\SPD
+esif_assist_64.exe,10352,DESKTOP-JV65JC9\SPD
+svchost.exe,10456,Access Denied
+svchost.exe,10476,DESKTOP-JV65JC9\SPD
+svchost.exe,10584,Access Denied
+chrome.exe,10644,DESKTOP-JV65JC9\SPD
+SecurityHealthSystray.exe,10668,DESKTOP-JV65JC9\SPD
+chrome.exe,10744,DESKTOP-JV65JC9\SPD
+chrome.exe,10812,DESKTOP-JV65JC9\SPD
+RuntimeBroker.exe,10856,DESKTOP-JV65JC9\SPD
+ATKOSD2.exe,10884,DESKTOP-JV65JC9\SPD
+GoogleCrashHandler.exe,11100,Access Denied
+conhost.exe,11192,DESKTOP-JV65JC9\SPD
+chrome.exe,11528,DESKTOP-JV65JC9\SPD
+chrome.exe,11580,DESKTOP-JV65JC9\SPD
+svchost.exe,11728,Access Denied
+Microsoft.Python.LanguageServer.exe,11732,DESKTOP-JV65JC9\SPD
+HControl.exe,11748,Access Denied
+DMedia.exe,12088,DESKTOP-JV65JC9\SPD
+RuntimeBroker.exe,12232,DESKTOP-JV65JC9\SPD
+python.exe,12268,DESKTOP-JV65JC9\SPD
+chrome.exe,12460,DESKTOP-JV65JC9\SPD
+chrome.exe,12524,DESKTOP-JV65JC9\SPD
+Video.UI.exe,12608,DESKTOP-JV65JC9\SPD
+SystemSettingsBroker.exe,12732,DESKTOP-JV65JC9\SPD
+AsusTPHelper.exe,12932,DESKTOP-JV65JC9\SPD
+chrome.exe,12984,DESKTOP-JV65JC9\SPD
+explorer.exe,13096,DESKTOP-JV65JC9\SPD
+chrome.exe,13156,DESKTOP-JV65JC9\SPD
+chrome.exe,13220,DESKTOP-JV65JC9\SPD
+chrome.exe,13272,DESKTOP-JV65JC9\SPD
+Code.exe,13408,DESKTOP-JV65JC9\SPD
+csrss.exe,13444,Access Denied
+nvvsvc.exe,13548,Access Denied
+svchost.exe,13672,DESKTOP-JV65JC9\SPD
+notepad.exe,13792,DESKTOP-JV65JC9\SPD
+WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe,13868,DESKTOP-JV65JC9\SPD
+MsMpEng.exe,13980,Access Denied
+taskhostw.exe,14076,DESKTOP-JV65JC9\SPD
+chrome.exe,14156,DESKTOP-JV65JC9\SPD
+SebWindowsServiceWCF.exe,14256,Access Denied
+Code.exe,14276,DESKTOP-JV65JC9\SPD
+conhost.exe,14288,DESKTOP-JV65JC9\SPD
+jusched.exe,14344,DESKTOP-JV65JC9\SPD
+RuntimeBroker.exe,14396,DESKTOP-JV65JC9\SPD
+SkypeBackgroundHost.exe,14444,DESKTOP-JV65JC9\SPD
+chrome.exe,14468,DESKTOP-JV65JC9\SPD
+chrome.exe,14596,DESKTOP-JV65JC9\SPD
+ctfmon.exe,14648,DESKTOP-JV65JC9\SPD
+SystemSettings.exe,14684,DESKTOP-JV65JC9\SPD
+CodeHelper.exe,14916,DESKTOP-JV65JC9\SPD
+svchost.exe,15092,Access Denied
+chrome.exe,15120,DESKTOP-JV65JC9\SPD
+fontdrvhost.exe,15292,Access Denied
+chrome.exe,15860,DESKTOP-JV65JC9\SPD
+smartscreen.exe,16312,DESKTOP-JV65JC9\SPD
+chrome.exe,16376,DESKTOP-JV65JC9\SPD
+RuntimeBroker.exe,16660,DESKTOP-JV65JC9\SPD
+SearchIndexer.exe,16832,Access Denied
+chrome.exe,16928,DESKTOP-JV65JC9\SPD
+Code.exe,16948,DESKTOP-JV65JC9\SPD
+chrome.exe,17124,DESKTOP-JV65JC9\SPD
+svchost.exe,17512,Access Denied
+java.exe,17516,Access Denied
+notepad.exe,17636,DESKTOP-JV65JC9\SPD
+chrome.exe,18136,DESKTOP-JV65JC9\SPD
+SearchFilterHost.exe,18160,Access Denied

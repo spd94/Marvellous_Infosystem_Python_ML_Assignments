@@ -1,0 +1,2 @@
+INFO:root:Give proper input,like process name (eg-notepad.exe) and email id(eg-abc@xyz.com)
+INFO:root:Give proper input,like process name (eg-notepad.exe) and email id(eg-abc@xyz.com)
