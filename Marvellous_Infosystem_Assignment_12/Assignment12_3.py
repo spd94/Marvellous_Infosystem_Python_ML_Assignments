@@ -27,6 +27,7 @@ def ProcessDisplay(dir_name):
 def main():
 	if(len(argv)!=2):
 		lg.info("Give proper input,like process name eg-notepad.exe")
+		exit()
 	try:
 		#ext=argv[2].replace(".","")
 			ProcessDisplay(argv[1])

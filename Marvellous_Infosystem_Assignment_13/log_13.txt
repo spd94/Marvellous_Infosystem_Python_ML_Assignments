@@ -1,0 +1,4 @@
+WARNING:root:the first argument must be callable
+INFO:schedule:Running job Every 3 minutes do Do_jobs(dir='dm', email='yojika2175@mail3.top') (last run: [never], next run: 2019-12-18 16:52:36)
+INFO:schedule:Running job Every 3 minutes do Do_jobs(dir='dm', email='yojika2175@mail3.top') (last run: 2019-12-18 16:52:41, next run: 2019-12-18 16:55:41)
+INFO:schedule:Running job Every 3 minutes do Do_jobs(dir='dm', email='yojika2175@mail3.top') (last run: 2019-12-18 16:55:47, next run: 2019-12-18 16:58:47)

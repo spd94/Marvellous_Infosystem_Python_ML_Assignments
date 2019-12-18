@@ -72,6 +72,7 @@ def send_email(rp,email_id):
 def main():
 	if(len(argv)!=3):
 		lg.info("Give proper input,like process name (eg-notepad.exe) and email id(eg-abc@xyz.com)")
+		exit()
 	try:
 			email=argv[2]
 			rp=0
